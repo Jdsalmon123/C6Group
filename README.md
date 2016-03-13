@@ -1,8 +1,10 @@
-# C6Group
-[Game idea] (https://github.com/LivetaM/C6Group/blob/master/GameIdea)
-[Parts list] (https://github.com/LivetaM/C6Group/blob/master/The%20main%20idea%2C%20parts%20list)
-[Addition ideas] (https://github.com/LivetaM/C6Group/blob/master/Additional%20ideas)
-[Storyboard] (https://github.com/LivetaM/C6Group/blob/master/storyboard.docx)
-[References] (https://github.com/LivetaM/C6Group/blob/master/all%20references)
-[Grass image] (https://github.com/LivetaM/C6Group/blob/master/grass.jpg)
-[Road image] (https://github.com/LivetaM/C6Group/blob/master/road.jpg)
+# Python ALL Project
+
+A program with a graphical user interface which enables users to search for car parts 
+
+## Installation
+
+To Run program you Must include all the resource files: have the media foldr located within the root file directory of the project, install pygame from the pygame-1.9.tar.gz and link pygame to the nesssecary files.
+
+## Credits
+Jonathan Salmon
